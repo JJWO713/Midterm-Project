@@ -1,0 +1,78 @@
+#navbar {
+    --bs-bg-opacity: 1;
+    background-color: #594c2a;
+    /* background-color: #664229; */
+  }
+
+  #bgdiv {
+    --bs-bg-opacity: 1;
+  }
+
+  #footer {
+    --bs-text-opacity: 1;
+    background-color: #594c2a;
+    color: white;
+  }
+
+  #coffeeButton {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #5d775b;
+    --bs-btn-border-color: #5d775b;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #597157;
+    --bs-btn-hover-border-color: #597157;
+    --bs-btn-focus-shadow-rgb: 49, 132, 253;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #597157;
+    --bs-btn-active-border-color: #597157;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+
+  }
+
+  #pastryButton {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #a0ac91;
+    --bs-btn-border-color: #a0ac91;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #919c83;
+    --bs-btn-hover-border-color: #919c83;
+    --bs-btn-focus-shadow-rgb: 49, 132, 253;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #919c83;
+    --bs-btn-active-border-color: #919c83;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  }
+
+  #navbarHeader {
+    background-color: #a0ac91;
+  }
+
+  .about-text {
+    color: white;
+  }
+
+  .main-text {
+    color: white;
+    font-weight: 300;   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+  .background-banner {
+    background-image: url(https://images.unsplash.com/photo-1579005007697-75b2fe2c88e7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D  );
+    background-size: cover;
+    background-position: 0% 83%;
+  }
+
+  .prices {
+    --bs-text-opacity: 1;
+    font-size: medium;
+    color: black;
+  }
+
+  .item-title {
+    color: rgb(61, 36, 21);
+  }
+  #navbar {
+    --bs-bg-opacity: 1;
+    background-color: rgb(0 41 82);
+  }
