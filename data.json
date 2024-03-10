@@ -1,0 +1,119 @@
+{
+    "Food": [
+        {
+            "title": "Croissant",
+            "url": "https://images.unsplash.com/photo-1623334044303-241021148842?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "A buttery perfection of our freshly baked croissant, with its flaky layers and golden-brown exterior that melt in your mouth with every bite."
+        },
+        {
+            "title": "Strawberry Creampuff",
+            "url": "https://imgs.search.brave.com/PM_xCaDlkJbIrUiNzOgWwvG8v4QjJfud-64xmijG9NY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vbXNzaGlh/bmRtcmhlLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMi8w/Ni9JTUdfNzAyOS1z/Y2FsZWQuanBnP3Jl/c2l6ZT04MDAsODQw/JnNzbD0x",
+            "description": "Treat yourself to the exquisite delight of our strawberry cream puff, filled with luscious strawberry cream and topped with a dusting of powdered sugar."
+        },
+        {
+            "title": "Macarons",
+            "url": "https://images.unsplash.com/photo-1569864358642-9d1684040f43?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Experience the elegance of our macarons: delicate almond shells with flavorful ganache or buttercream fillings."
+        },
+        {
+            "title": "Lemon Pound Cake",
+            "url": "https://imgs.search.brave.com/tVcWvZBjVqX7N3svrWx85XttkwssqXQF5VdLE3orb74/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9raXJi/aWVjcmF2aW5ncy5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjMvMDUvNC1pbmdy/ZWRpZW50LWxlbW9u/LXBvdW5kY2FrZS0z/LTcwMHg4NTUuanBn",
+            "description": "Taste the citrusy bliss of our lemon pound cake, boasting a moist crumb infused with zesty lemon flavor."
+        },
+        {
+            "title": "Red Velvet Cake",
+            "url": "https://images.unsplash.com/photo-1586788680434-30d324b2d46f?q=80&w=1251&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Savor the velvety richness of our red velvet cake, with its moist layers and decadent cream cheese frosting, perfect for any time of the day."
+        },
+        {
+            "title": "Strawberry Cheesecake",
+            "url": "https://images.unsplash.com/photo-1503485838016-53579610c389?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Delight in our strawberry cheesecake, a creamy blend of smooth texture, fresh strawberries, and buttery crust."
+        },
+        {
+            "title": "French Loaf",
+            "url": "https://images.unsplash.com/photo-1586765501019-cbe3973ef8fa?q=80&w=1168&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Enjoy the simplicity of our French loaf, with its crispy crust and soft, airy interior. It's the epitome of artisanal bread craftsmanship."
+        },
+        {
+            "title": "Sourdough Bread",
+            "url": "https://plus.unsplash.com/premium_photo-1701186689674-06460f8da4a8?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Discover the tangy goodness of our sourdough bread, boasting a crusty exterior and a chewy, flavorful interior, a timeless favorite for bread enthusiasts."
+        },
+        {
+            "title": "Banana Bread",
+            "url": "https://imgs.search.brave.com/mCsawYrZQMzQYwXsFVNSNLm24aixawlVr-m5cK3G4IA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zYWxs/eXNiYWtpbmdhZGRp/Y3Rpb24uY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE4LzEw/L2hvbWVtYWRlLWJh/bmFuYS1icmVhZC0y/LmpwZw",
+            "description": "Try out the comforting nostalgia of our banana bread, crafted with moist, ripe bananas and hints of warmth in every bite."
+        }
+    ],
+    "flowers" : [
+        {
+            "name": "Dahlias",
+            "src": "https://images.unsplash.com/photo-1594269277694-99ddde75669e?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "name": "Roses",
+            "src": "https://images.unsplash.com/photo-1597826368522-9f4cb5a6ba48?q=80&w=1889&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "name": "Lilacs",
+            "src": "https://images.unsplash.com/photo-1526228446530-49914082ff8a?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "name": "Peonies",
+            "src": "https://images.unsplash.com/photo-1557926005-012bd4382a0d?q=80&w=1886&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "name": "Daisies",
+            "src": "https://images.unsplash.com/photo-1606041008023-472dfb5e530f?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "name": "Hydrangeas",
+            "src": "https://images.unsplash.com/photo-1530447416112-3cc6b05008e8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "name": "Orchids",
+            "src": "https://images.unsplash.com/photo-1610397648930-477b8c7f0943?q=80&w=1930&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "name": "Lilies",
+            "src": "https://images.unsplash.com/photo-1501973931234-5ac2964cd94a?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "name": "Sunflowers",
+            "src": "https://images.unsplash.com/photo-1512238701577-f182d9ef8af7?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "name": "Camelias",
+            "src": "https://images.unsplash.com/photo-1522188253312-b3062bccf142?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "name": "Tulips",
+            "src": "https://images.unsplash.com/photo-1520763185298-1b434c919102?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "name": "Poppies",
+            "src": "https://images.unsplash.com/photo-1606952460453-3b7edc2f67a7?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        }
+    ],
+    "carousel": [
+        {
+            "title": "Blooms & Bites",
+            "text": "Treat yourself with pastries and gorgeous bouquets",
+            "button": "Order now",
+            "src": "https://images.unsplash.com/photo-1467630144534-da2b634ce269?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "title": "Beautiful Blooms",
+            "text": "Tell us about your dream bouqet and we'll make it happen",
+            "button": "Order now",
+            "src": "https://images.unsplash.com/photo-1458229865435-7cbe781270e4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "title": "Delicious Bites",
+            "text": "Browse our rotating pastry selection to see what we've baked fresh",
+            "button": "Show me",
+            "src": "https://images.unsplash.com/photo-1483695028939-5bb13f8648b0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        }
+    ]
+}
